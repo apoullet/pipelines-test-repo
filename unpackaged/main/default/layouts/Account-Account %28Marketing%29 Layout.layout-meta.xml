@@ -37,7 +37,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Foo_Field__c</field>
+                <field>Renamed_Foo_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
