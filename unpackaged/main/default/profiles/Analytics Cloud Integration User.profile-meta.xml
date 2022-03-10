@@ -127,6 +127,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Second_Test_Field_20220310__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.ShippingAddress</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -143,11 +148,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Site</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.Test_Field_20220310__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

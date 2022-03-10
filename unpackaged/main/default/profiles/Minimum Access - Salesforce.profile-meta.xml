@@ -2,7 +2,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Test_Field_20220310__c</field>
+        <field>Account.Second_Test_Field_20220310__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
